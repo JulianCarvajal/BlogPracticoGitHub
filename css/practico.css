@@ -8,6 +8,20 @@
     width: 1000px;
     border: 1px solid black;
     margin: auto;
+    margin-top: 20px;
+}
+
+#cabecera{
+    text-align: center;
+    text-transform: uppercase;
+    color: gray;
+    background-color: rgb(126, 253, 255);
+    padding: 20px;
+    border: 2px solid blue;
+}
+
+.cabeza{
+    text-align: center;
 }
 
 section{
