@@ -4,18 +4,23 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: gray;
+}
+
 .container{
     width: 1000px;
     border: 1px solid black;
     margin: auto;
     margin-top: 20px;
+    background-color: white;
 }
 
 #cabecera{
     text-align: center;
     text-transform: uppercase;
-    color: gray;
-    background-color: rgb(126, 253, 255);
+    color: white;
+    background-color: rgb(27, 72, 73);
     padding: 20px;
     border: 2px solid blue;
 }
@@ -27,4 +32,9 @@
 section{
     padding: 20px;
     list-style: none;
+}
+
+.parrafos{
+    padding: 20px;
+    font-size: 18px;
 }
