@@ -22,7 +22,13 @@ body{
     color: white;
     background-color: rgb(27, 72, 73);
     padding: 20px;
-    border: 2px solid blue;
+    border: 2px solid rgb(27, 49, 49);
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+h1{
+    font-size: 28px;
 }
 
 .cabeza{
